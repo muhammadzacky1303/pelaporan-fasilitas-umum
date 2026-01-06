@@ -14,7 +14,7 @@ Membantu pengguna dalam melakukan pelaporan fasilitas umum secara lebih efektif 
 ## Teknologi yang Digunakan
 - Python
 - Framework GUI Desktop
-- Database SQLite
+- Database Supabase
 
 ## Cara Menjalankan Aplikasi
 1. Pastikan Python sudah terinstall
